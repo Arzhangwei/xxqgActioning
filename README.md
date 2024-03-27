@@ -1,9 +1,9 @@
 
-
+只有24分。
 
 在原本的xxqg dodocker的基础上增加了完成视频任务；
 使用前先拉xxqg项目，正常登录配置
-我懒不想重写，所以用户管理沿用xxqg docker
+用户管理沿用xxqg docker
 
 建议使用3.0，config.json可以自己配置含有视频的url接口。
 
