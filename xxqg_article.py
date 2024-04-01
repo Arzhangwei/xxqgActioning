@@ -11,7 +11,7 @@ i = 0
 
 def getRandomUrl_func():
     # 从 config.json 文件中读取数据
-    with open("/root/wujiajia/xxqgPy/config.json", "r") as json_file:
+    with open("/root/githubRepo/xxqgActioning/config.json", "r") as json_file:
         data = json.load(json_file)
     # 从数据中随机选择一条
     random_data = random.choice(data["article_url_list_IOS"])
