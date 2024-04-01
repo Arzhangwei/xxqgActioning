@@ -1,18 +1,28 @@
 import requests
 import json
 import re
-import os,sys
+import os,sys,random
 # 设置接口的URL
 url = "https://www.xuexi.cn/lgdata/1jscb6pu1n2.json?_st=26095725"  # 替换为你要访问的接口URL
 
 goTo_url = 'dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?'
 i = 0
 
+
+def getRandomUrl_func():
+    # 从 config.json 文件中读取数据
+    with open("/root/wujiajia/xxqgPy/config.json", "r") as json_file:
+        data = json.load(json_file)
+    # 从数据中随机选择一条
+    random_data = random.choice(data["article_url_list_IOS"])
+    print("随机选择的数据是：", random_data)
+    return random_data
+
 try:
     # 获取第一个参数
     first_arg = sys.argv[1]
     if first_arg is None or first_arg == '':
-        file_path = "/www/wwwroot/vip.bankwjj.cloudns.org/v2ray/xxqg_article.txt"
+        file_path = "/root/githubRepo/xxqgActioning/ios_xxqg_article.txt"
     else:
         file_path = str(first_arg)
     
@@ -25,6 +35,7 @@ try:
         print(f"{file_path} 文件不存在。")
     
     # 发送GET请求并获取响应
+    url = getRandomUrl_func()
     response = requests.get(url)
 
     # 检查响应状态码
