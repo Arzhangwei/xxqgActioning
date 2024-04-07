@@ -60,6 +60,9 @@ try:
                 # /www/wwwroot/bankwjj.cf/v2ray/
                 with open(file_path, 'a') as file:
                     file.write(goTo_url+'art_id='+art_Id+'&item_id='+item_Id+'\n')
+                
+                with open("/www/wwwroot/bankwjj.cf/json/ios_xxqg_article.txt", 'a') as file:
+                    file.write(goTo_url+'art_id='+art_Id+'&item_id='+item_Id+'\n')
                 print("url:", art_Id)
                 
             else:
