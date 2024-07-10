@@ -1,3 +1,6 @@
+dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=3112335801104746727&item_id=3112335801104746727
+dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=7799076685773434858&item_id=7799076685773434858
+dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=17557223043428158016&item_id=17557223043428158016
 dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=2942550754667602891&item_id=2942550754667602891
 dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=18386537218997464223&item_id=18386537218997464223
 dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=12472756433976491931&item_id=12472756433976491931
@@ -496,6 +499,3 @@ dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index
 dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=1944355830065614973&item_id=1944355830065614973
 dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=123913141517241354&item_id=123913141517241354
 dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=17574091706267811475&item_id=17574091706267811475
-dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=6449291693739130647&item_id=6449291693739130647
-dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=6282712451438422628&item_id=6282712451438422628
-dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=12168306212741467182&item_id=12168306212741467182
