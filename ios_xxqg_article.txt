@@ -1,3 +1,7 @@
+dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=5040532821685086381&item_id=5040532821685086381
+dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=8524215377877225993&item_id=8524215377877225993
+dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=8118080425515788933&item_id=8118080425515788933
+dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=5853656794808437079&item_id=5853656794808437079
 dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=14317184780906579153&item_id=14317184780906579153
 dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=12530256678501464297&item_id=12530256678501464297
 dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=5552659399900812886&item_id=5552659399900812886
@@ -495,7 +499,3 @@ dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index
 dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=3144377196407952446&item_id=3144377196407952446
 dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=10680650596022744765&item_id=10680650596022744765
 dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=5990900355864379877&item_id=5990900355864379877
-dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=6044745113717407839&item_id=6044745113717407839
-dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=7917547565694515204&item_id=7917547565694515204
-dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=1286849087826675646&item_id=1286849087826675646
-dtxuexi://appclient/page/study_feeds?url=https://article.xuexi.cn/articles/index.html?art_id=6865476516594781627&item_id=6865476516594781627
